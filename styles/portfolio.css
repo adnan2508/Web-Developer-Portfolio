@@ -21,7 +21,7 @@ body {
 }
 
 .section-description {
-    color: #757575);
+    color: #757575;
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -177,4 +177,15 @@ main section {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
+}
+
+.resume-container {
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-institute, .resume-item-description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
 }
